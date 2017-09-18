@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Tiled Image</string>
+    <string name="image">原图</string>
+    <string name="start">开始</string>
+    <string name="newStr">新游戏</string>
+    <string name="visitor">游戏者</string>
+    <string name="time">00:00</string>
+
+    <string name="ok">知道了</string>
+    <string name="cancel">取消</string>
+    <string name="photo">选择图片</string>
+    <string name="rules">Rules</string>
+    <string name="recommend">推荐给朋友</string>
+    <string name="scores">得分</string>
+    <string name="camera">照相</string>
+    <string name="settings">设置</string>
+    <string name="share">分享</string>
+    <string name="win">搞定!</string>
+    <string name="sendMsg">快来下载 老严 的最新游戏  - http://www.richyan.com/android/ImageGame.apk</string>
+
+    <string name="picture">背景图片:</string>
+    <string name="buda">佛祖</string>
+    <string name="ziyi">章子怡</string>
+    <string name="mona">蒙娜丽莎</string>
+    <string name="format">格式:</string>
+    <string name="three">3 x 3</string>
+    <string name="four">4 x 4</string>
+    <string name="hint">图片上显示顺序数字</string>
+
+    <string name="aboutGame">关于游戏</string>
+    <string name="about1">1. 按开始键，开始游戏.</string>
+    <string name="about2">2. 把最后小图拖到右下角空白处. </string>
+    <string name="about3">3. 把其他图片放回原来得地方.</string>
+    <string name="designedBy">设计：老严</string>
+    <string name="about">关于游戏</string>
+
+    <string name="record">没有记录</string>
+    <string name="player">玩家: </string>
+    <string name="complete">完成时间: </string>
+
+    <string name="login">登陆</string>
+</resources>

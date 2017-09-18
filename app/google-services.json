@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3272732723",
+    "project_id": "imagegame-d1369"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3272732723:android:2ada92ba3275ee22",
+        "android_client_info": {
+          "package_name": "com.richyan.android.imagegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3272732723-6q64v8q8k6ub0eo4bgab2n013d8sno7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.richyan.android.imagegame",
+            "certificate_hash": "C8E7296B1D53B02CD2205BFA88FC652F089D7CA2"
+          }
+        },
+        {
+          "client_id": "3272732723-j637qiestomdl8b58sae2mdc81v3nt1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzk5AKhE-Mx4QQBFfaM6b_CdDeK_sPd5E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
